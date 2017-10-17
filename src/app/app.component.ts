@@ -15,7 +15,7 @@
   `
 })
 export class AppComponent {
-  title = 'applications';
+  title = 'applicationsasdsadsadsasd';
   ah = "asd";
   y = "asdsad";
 }
